@@ -1,0 +1,106 @@
+# _*_ Makefile _*_
+
+# Compiler and compiler flags
+CC = gcc
+CFLAGS = -Wall -O2
+
+# Target executable name
+TARGET = absolute_value
+
+# Source files
+SRCS = main.c
+# Object files
+OBJS = main.o
+
+# Target to build everything
+all: $(TARGET)
+
+# Rule to link the object files into the final executable
+$(TARGET): $(OBJS) abs_value.o abs_value_int.o
+	$(CC) $(CFLAGS) -o $(TARGET) $(OBJS) abs_value.o abs_value_int.o
+
+# Compile main.c into main.o
+$(OBJS): $(SRCS) abs_value.h abs_value_int.h
+	$(CC) $(CFLAGS) -c $(SRCS)
+
+# Compile floating-point absolute value.c into sine.o
+abs_value.o: abs_value.c abs_value.h
+	$(CC) $(CFLAGS) -c abs_value.c
+
+# Compile integer absolute value.c into sine.o
+abs_value_int.o: abs_value_int.c abs_value_int.h
+	$(CC) $(CFLAGS) -c abs_value_int.c
+
+# Clean up object files and executable
+clean:
+	rm -f *.o $(TARGET)
+
+
+
+# _*_ Makefile _*_
+
+# Compiler and compiler flags
+CC = gcc
+CFLAGS = -Wall -O2
+
+# Target executable name
+TARGET = cosine
+
+# Source files
+SRCS = main.c
+# Object files
+OBJS = main.o
+
+# Target to build everything
+all: $(TARGET)
+
+# Rule to link the object files into the final executable
+$(TARGET): $(OBJS) cosine.o
+	$(CC) $(CFLAGS) -o $(TARGET) $(OBJS) cosine.o
+
+# Compile main.c into main.o
+$(OBJS): $(SRCS) cosine.h
+	$(CC) $(CFLAGS) -c $(SRCS)
+
+# Compile cosine.c into cosine.o
+cosine.o: cosine.c cosine.h
+	$(CC) $(CFLAGS) -c cosine.c
+
+# Clean up object files and executable
+clean:
+	rm -f *.o $(TARGET)
+
+
+
+# _*_ Makefile _*_
+
+# Compiler and compiler flags
+CC = gcc
+CFLAGS = -Wall -O2
+
+# Target executable name
+TARGET = sine
+
+# Source files
+SRCS = main.c
+# Object files
+OBJS = main.o
+
+# Target to build everything
+all: $(TARGET)
+
+# Rule to link the object files into the final executable
+$(TARGET): $(OBJS) sine.o
+	$(CC) $(CFLAGS) -o $(TARGET) $(OBJS) sine.o
+
+# Compile main.c into main.o
+$(OBJS): $(SRCS) sine.h
+	$(CC) $(CFLAGS) -c $(SRCS)
+
+# Compile sine.c into sine.o
+sine.o: sine.c sine.h
+	$(CC) $(CFLAGS) -c sine.c
+
+# Clean up object files and executable
+clean:
+	rm -f *.o $(TARGET)

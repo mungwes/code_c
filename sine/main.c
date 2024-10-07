@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "factorial.h"
 #include "sine.h"
 
 int main() {
