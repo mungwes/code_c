@@ -3,6 +3,10 @@
     "",
     "\\cosine"
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\build.bat",
+=======
+  "SelectedNode": "\\cosine\\cosine.c",
+>>>>>>> 12a66cb38d45eeb33ef30168337759091c0a4729
   "PreviewInSolutionExplorer": false
 }

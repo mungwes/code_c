@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SyandaM\\Desktop\\code_C\\",
+  "WorkspaceRootPath": "C:\\Users\\syand\\Desktop\\code_c\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyandaM\\Desktop\\code_C\\abs_value\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:abs_value\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -33,6 +34,20 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyandaM\\Desktop\\code_C\\abs_value\\abs_value.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:abs_value\\abs_value.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+=======
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\syand\\Desktop\\code_c\\Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\syand\\Desktop\\code_c\\cosine\\cosine.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cosine\\cosine.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyandaM\\Desktop\\code_C\\sine.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SyandaM\\Desktop\\code_C\\sine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+>>>>>>> 12a66cb38d45eeb33ef30168337759091c0a4729
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +57,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 8,
+=======
+          "SelectedChildIndex": 4,
+>>>>>>> 12a66cb38d45eeb33ef30168337759091c0a4729
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,6 +70,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
               "Title": "build.bat",
               "DocumentMoniker": "C:\\Users\\SyandaM\\Desktop\\code_C\\build.bat",
               "RelativeDocumentMoniker": "build.bat",
@@ -59,11 +79,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000614|",
               "WhenOpened": "2024-10-08T08:12:38.628Z",
+=======
+              "Title": "cosine.c",
+              "DocumentMoniker": "C:\\Users\\syand\\Desktop\\code_c\\cosine\\cosine.c",
+              "RelativeDocumentMoniker": "cosine\\cosine.c",
+              "ToolTip": "C:\\Users\\syand\\Desktop\\code_c\\cosine\\cosine.c",
+              "RelativeToolTip": "cosine\\cosine.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-20T12:04:15.773Z",
+>>>>>>> 12a66cb38d45eeb33ef30168337759091c0a4729
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
               "Title": "cosine.c",
               "DocumentMoniker": "C:\\Users\\SyandaM\\Desktop\\code_C\\cosine\\cosine.c",
               "RelativeDocumentMoniker": "cosine\\cosine.c",
@@ -77,12 +108,42 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+=======
+              "Title": "sine.c",
+              "DocumentMoniker": "C:\\Users\\SyandaM\\Desktop\\code_C\\sine.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\SyandaM\\Desktop\\code_C\\sine.c",
+              "ToolTip": "C:\\Users\\SyandaM\\Desktop\\code_C\\sine.c",
+              "RelativeToolTip": "..\\..\\..\\SyandaM\\Desktop\\code_C\\sine.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-04T13:03:24.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sine.h",
+              "DocumentMoniker": "C:\\Users\\SyandaM\\Desktop\\code_C\\sine.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\SyandaM\\Desktop\\code_C\\sine.h",
+              "ToolTip": "C:\\Users\\SyandaM\\Desktop\\code_C\\sine.h",
+              "RelativeToolTip": "..\\..\\..\\SyandaM\\Desktop\\code_C\\sine.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-04T12:47:42.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+>>>>>>> 12a66cb38d45eeb33ef30168337759091c0a4729
               "Title": "Makefile",
-              "DocumentMoniker": "C:\\Users\\SyandaM\\Desktop\\code_C\\Makefile",
+              "DocumentMoniker": "C:\\Users\\syand\\Desktop\\code_c\\Makefile",
               "RelativeDocumentMoniker": "Makefile",
-              "ToolTip": "C:\\Users\\SyandaM\\Desktop\\code_C\\Makefile",
+              "ToolTip": "C:\\Users\\syand\\Desktop\\code_c\\Makefile",
               "RelativeToolTip": "Makefile",
+<<<<<<< HEAD
               "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
+>>>>>>> 12a66cb38d45eeb33ef30168337759091c0a4729
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-10-07T09:29:05.552Z",
               "EditorCaption": ""
