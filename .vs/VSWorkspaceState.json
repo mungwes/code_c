@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\cosine"
   ],
-  "SelectedNode": "\\factorial.c",
+  "SelectedNode": "\\build.bat",
   "PreviewInSolutionExplorer": false
 }
